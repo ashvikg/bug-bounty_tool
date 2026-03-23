@@ -1,0 +1,2 @@
+[OPEN] Port 80 on testphp.vulnweb.com
+[OPEN] Port 443 on testphp.vulnweb.com
